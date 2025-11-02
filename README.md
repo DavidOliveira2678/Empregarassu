@@ -14,7 +14,7 @@ Projeto desenvolvido pelo **Grupo 2** como parte da iniciativa baseada no **Tema
 
 ---
 
-## 🚧 Problema
+## Problema
 A juventude brasileira enfrenta **barreiras estruturais e sociais** para se inserir de forma qualificada no mercado de trabalho. Entre os principais desafios estão:
 
 - Falta de orientação profissional  
@@ -27,11 +27,11 @@ Esses fatores contribuem para escolhas equivocadas, baixa qualificação e exclu
 
 ---
 
-## 💡 Solução: Galeria Jovem
+## Solução: Galeria Jovem
 
-A **Galeria Jovem** é muito mais do que uma simples plataforma — é um ecossistema digital pensado para **dar visibilidade aos talentos juvenis** e criar conexões reais com oportunidades de crescimento. Nosso objetivo é reduzir as barreiras que afastam os jovens do mercado de trabalho, oferecendo um espaço seguro e dinâmico para **mostrar habilidades, receber orientação e acessar trilhas personalizadas de desenvolvimento**.
+A **Galeria Jovem** é muito mais do que uma simples plataforma é um ecossistema digital pensado para **dar visibilidade aos talentos juvenis** e criar conexões reais com oportunidades de crescimento. Nosso objetivo é reduzir as barreiras que afastam os jovens do mercado de trabalho, oferecendo um espaço seguro e dinâmico para **mostrar habilidades, receber orientação e acessar trilhas personalizadas de desenvolvimento**.
 
-### 🔍 Como a solução se diferencia?
+### Como a solução se diferencia?
 - **Personalização Inteligente**: Cada jovem tem um perfil único, e a plataforma utiliza análise de afinidades para sugerir cursos, vagas e mentorias alinhadas aos seus interesses.
 - **Portfólio Digital**: Permite que os jovens exibam suas criações (arte, música, design, tecnologia, jogos, escrita), funcionando como uma vitrine para empresas e mentores.
 - **Conexão com Mentores e Empresas**: Cria pontes reais entre talentos e profissionais experientes, promovendo networking e orientação prática.
@@ -42,7 +42,7 @@ Essa abordagem transforma a busca por emprego em uma experiência **interativa, 
 ---
 
 
-## ⚙️ Como funciona?
+## Como funciona?
 1. O jovem acessa e cria seu perfil com hobbies, talentos e experiências.  
 2. O sistema analisa os dados e identifica **afinidades e caminhos de desenvolvimento**.  
 3. Sugere **vagas, cursos e mentorias** alinhadas ao perfil.  
@@ -51,7 +51,7 @@ Essa abordagem transforma a busca por emprego em uma experiência **interativa, 
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - **Orientar**: Ajudar jovens a identificar seus talentos e interesses.  
 - **Capacitar**: Facilitar o acesso a cursos e mentorias relevantes.  
 - **Inserir**: Conectar com vagas de emprego e redes profissionais.  
@@ -59,16 +59,11 @@ Essa abordagem transforma a busca por emprego em uma experiência **interativa, 
 
 ---
 
-## 🧠 Público-Alvo
+## Público-Alvo
 - Jovens em transição para o mercado de trabalho  
 - Pessoas sem experiência profissional ou indecisas sobre carreira  
 - Jovens neurodivergentes que precisam de um espaço seguro para mostrar seus talentos  
 - Quem busca capacitação, mentoria e oportunidades reais  
-
----
-
-## 🌟 Transformando talentos em oportunidades
-A **Galeria Jovem** é mais que uma plataforma, é um movimento para **revelar o potencial da juventude** e construir pontes entre sonhos e realizações.
 
 ---
 
@@ -78,5 +73,10 @@ A **Galeria Jovem** é mais que uma plataforma, é um movimento para **revelar o
 - **Área para mentores** com ferramentas de acompanhamento e orientação  
 - **Integração com programas locais** de capacitação e empregabilidade  
 - **Funcionalidade para trilhas formativas personalizadas** com base nos interesses do usuário  
+
+---
+
+##  Transformando talentos em oportunidades
+A **Galeria Jovem** é mais que uma plataforma, é um movimento para **revelar o potencial da juventude** e construir pontes entre sonhos e realizações.
 
 ---

@@ -67,7 +67,7 @@ Essa abordagem transforma a busca por emprego ou qualificação em uma experiên
 
 ---
 
-## 📦 Recursos futuros
+## Recursos futuros
 - **Portfólio digital avançado** para exibir projetos e criações dos jovens  
 - **Sistema de recomendação inteligente** para cursos, vagas e mentorias  
 - **Área para mentores** com ferramentas de acompanhamento e orientação  

@@ -1,55 +1,132 @@
-Galeria Jovem
-O Galeria Jovem nasceu dentro do Projeto Start da Rede Cidadã, desenvolvido pelo Grupo 2, com o tema “Mentoria, Emprego e Protagonismo Juvenil”. A proposta foi criar uma solução que reunisse essas três frentes em um só espaço, ajudando jovens a descobrir seus talentos, se capacitar e se conectar com oportunidades reais.
+🌟 Galeria Jovem 🌟
 
-Sobre o projeto
-O Galeria Jovem é uma plataforma digital que conecta jovens recém-formados do ensino médio a oportunidades de trabalho, cursos e mentorias personalizadas. Mais do que um site de vagas, é uma vitrine de talentos, onde cada usuário pode mostrar seus projetos e habilidades e receber recomendações que o ajudem a crescer profissionalmente.
+Transformando talentos em oportunidades.
 
-Contexto
-O desemprego juvenil é uma das principais barreiras para o desenvolvimento social e econômico do país. Dados recentes mostram que a taxa de desemprego entre jovens é mais que o dobro da taxa entre adultos. Além disso, muitos enfrentam dificuldades para encontrar cursos de qualidade, acesso limitado a transporte e precisam conciliar trabalho com estudos.
+🧭 Sobre o Projeto
 
-Em Pernambuco, por exemplo, há milhares de vagas disponíveis na Educação de Jovens e Adultos (EJA) que permanecem ociosas por falta de engajamento e informação. Isso revela que a simples oferta de oportunidades não é suficiente para garantir o acesso real dos jovens.
+Este projeto foi desenvolvido pelo Grupo 2 dentro do Projeto Start da Rede Cidadã, que teve como tema “Mentoria, Emprego e Protagonismo Juvenil”.
 
-Esses fatores acabam levando a escolhas profissionais equivocadas, baixa qualificação, informalidade e desemprego persistente. Faltam políticas locais que orientem e acompanhem de perto a jornada do jovem até o mercado de trabalho.
+Partindo desse desafio, o grupo buscou criar uma solução que unisse essas três dimensões em um só lugar uma plataforma capaz de orientar jovens na construção de suas trajetórias profissionais, oferecer acesso a oportunidades reais e fortalecer o protagonismo de cada um através da expressão de seus talentos e interesses.
 
-Solução
-A plataforma reúne orientação, capacitação e inserção profissional em um único ambiente. O jovem cria um perfil simples, informa seus interesses e o sistema identifica afinidades, sugerindo cursos, vagas e mentorias adequadas. Também é possível montar um portfólio digital com projetos e produções pessoais. Com o tempo, o sistema aprende com as interações e oferece recomendações cada vez mais assertivas.
+Assim nasceu o Galeria Jovem, uma iniciativa que combina tecnologia, impacto social e inclusão, conectando jovens ao mundo do trabalho por meio de mentorias, cursos, vagas e visibilidade de talentos.
 
-Público-alvo
-O projeto é voltado para jovens que estão em transição para o mercado de trabalho, ainda indecisos sobre qual carreira seguir ou sem experiência profissional. Também é destinado àqueles que buscam capacitação, orientação e visibilidade para seus talentos.
+💡 O que é o Galeria Jovem
 
-A plataforma também pensa no público neurodivergente, oferecendo um espaço seguro e inclusivo onde possam mostrar suas criações e habilidades sem julgamentos, encontrando reconhecimento e oportunidades adequadas.
+O Galeria Jovem é uma plataforma digital inteligente que conecta jovens recém-formados do ensino médio a oportunidades de trabalho, capacitação e mentoria de acordo com seus interesses, talentos e perfis individuais.
 
-Objetivos
+Mais do que um espaço de busca por emprego, é uma vitrine de talentos um ambiente onde o jovem pode mostrar o que sabe fazer, receber recomendações personalizadas e construir uma trajetória com propósito.
 
-Orientar: ajudar o jovem a reconhecer talentos e encontrar caminhos profissionais.
+📌 Contexto e Problemática
 
-Capacitar: facilitar o acesso a cursos e mentorias.
+O desemprego juvenil no Brasil continua sendo um dos maiores desafios sociais.
+De acordo com dados recentes, a taxa de desemprego entre jovens é mais que o dobro da registrada entre adultos.
 
-Inserir: conectar o aprendizado à prática, aproximando o jovem do mercado.
+Entre os principais obstáculos estão:
 
-Crescer: promover desenvolvimento contínuo e protagonismo juvenil.
+Falta de orientação profissional e de clareza sobre a carreira;
 
-Tecnologias
+Pouco acesso a cursos alinhados ao mercado;
 
-O projeto utiliza React e TailwindCSS no front-end, Node.js e Express no back-end e MongoDB como banco de dados. Contará com integração a APIs de cursos e vagas locais e um sistema de recomendação baseado em banco de dados inteligente.
+Barreiras estruturais, como distância, transporte e necessidade de conciliar estudo e trabalho;
 
-Impacto
+Dificuldade em encontrar vagas, programas e mentorias acessíveis;
 
-O Galeria Jovem busca diminuir a distância entre educação e trabalho, incentivar o protagonismo juvenil e fortalecer a inclusão social e digital, ajudando jovens a transformar seus talentos em oportunidades reais.
+Desinteresse por formações que não dialogam com a realidade do jovem.
 
-Equipe
-Grupo 2 – Projeto Start Rede Cidadã
-Bruno Nascimento da Costa
-Camila Íris Campos de Oliveira
-David Willyam Felipe Marques de Oliveira
-Isabela Garcia Menezes
-Rafaela Cristina de Souza
-Stefany Silva de Souza
+Em Pernambuco, por exemplo, mesmo com 18 mil vagas abertas na EJA, há dificuldade de preencher as turmas — mostrando que a oferta sozinha não garante o acesso.
 
-Referências
+Essas barreiras resultam em baixa qualificação, informalidade e desemprego persistente, o que reforça a necessidade de soluções inovadoras e integradas.
+
+🚀 A Solução
+
+O Galeria Jovem propõe uma resposta prática a esse cenário: uma plataforma digital personalizada que une orientação, capacitação e inserção profissional em um só espaço.
+
+A proposta é criar uma rede inteligente de oportunidades, em que o jovem possa:
+
+Descobrir seus talentos e interesses;
+
+Montar um portfólio digital com seus projetos e criações;
+
+Receber recomendações automáticas de cursos, vagas e mentorias;
+
+Conectar-se a profissionais e empresas que compartilham de seus objetivos.
+
+⚙️ Como Funciona
+
+O jovem realiza um cadastro rápido, informando seus hobbies, habilidades e áreas de interesse.
+
+A plataforma organiza esses dados em um banco inteligente, analisando padrões e perfis semelhantes.
+
+O sistema recomenda oportunidades personalizadas, como:
+
+Vagas de emprego e estágio;
+
+Cursos online ou presenciais;
+
+Mentores e profissionais para orientação direta.
+
+Quanto mais o jovem interage, mais o sistema aprende e refina suas recomendações, criando uma jornada contínua de desenvolvimento e engajamento.
+
+👥 Público-Alvo
+
+O Galeria Jovem é voltado para:
+
+Jovens em transição entre escola e mercado de trabalho;
+
+Pessoas que ainda não têm experiência profissional;
+
+Aqueles que buscam orientação e autoconhecimento;
+
+Jovens neurodivergentes, que encontram na plataforma um espaço seguro para expressar suas habilidades e se conectar a oportunidades reais.
+
+🎯 Objetivos
+
+Orientar:
+Ajudar jovens a reconhecer seus talentos e interesses, direcionando-os a trilhas formativas e oportunidades compatíveis.
+
+Capacitar:
+Oferecer acesso facilitado a cursos, mentorias e conteúdos que desenvolvam competências relevantes para o mercado.
+
+Inserir:
+Promover conexões diretas entre jovens, empresas e redes profissionais, transformando aprendizado em prática.
+
+Crescer:
+Estimular o desenvolvimento contínuo e o protagonismo juvenil, fortalecendo carreiras sustentáveis e conscientes.
+
+🧠 Tecnologias (em desenvolvimento)
+
+Front-end: React + TailwindCSS
+
+Back-end: Node.js + Express
+
+Banco de Dados: MongoDB
+
+Integrações: APIs de cursos e vagas locais
+
+IA/ML: Sistema de recomendação baseado em afinidades, interesses e padrões de comportamento
+
+🌍 Impacto Esperado
+
+Reduzir a lacuna entre educação e empregabilidade;
+
+Promover autoconhecimento e protagonismo juvenil;
+
+Estimular inclusão digital e social;
+
+Criar uma rede colaborativa entre jovens, mentores e instituições formadoras.
+
+🤝 Equipe e Reconhecimento
+
+Projeto desenvolvido pelo Grupo 2 do Projeto Start – Rede Cidadã (2025),
+dentro do tema “Mentoria, Emprego e Protagonismo Juvenil”,
+com apresentação no Grand Prix SENAI 2025.
+
+📎 Referências
 
 G1 – Desemprego entre jovens no Brasil
-https://g1.globo.com/trabalho-e-carreira/noticia/2025/04/11/desemprego-entre-jovens-no-brasil-e-mais-que-o-dobro-da-taxa-de-grupo-mais-velho-aponta-pesquisa.ghtml
 
 Agência Brasil – Falta de cursos de qualificação afasta jovens do mercado de trabalho
-https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-03/falta-de-cursos-de-qualificacao-afasta-jovens-do-mercado-de-trabalho
+
+JC Online – Dificuldade de atrair estudantes para EJA em Pernambuco
+
+Governo Federal – Jovens, mulheres e negros seguem com dificuldades de inserção

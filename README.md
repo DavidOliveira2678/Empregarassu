@@ -38,7 +38,7 @@ A **Galeria Jovem** é muito mais do que uma simples plataforma é um ecossistem
 - **Trilhas Formativas**: Sugestões de capacitação contínua para desenvolver habilidades essenciais e aumentar a empregabilidade.
 - **Inclusão e Acessibilidade**: Espaço pensado para jovens neurodivergentes e para quem enfrenta barreiras sociais, garantindo visibilidade e oportunidades.
 
-Essa abordagem transforma a busca por emprego em uma experiência **interativa, personalizada e motivadora**, incentivando o protagonismo juvenil e a construção de carreiras sólidas.
+Essa abordagem transforma a busca por emprego ou qualificação em uma experiência **interativa, personalizada e motivadora**, incentivando o protagonismo juvenil e a construção de carreiras sólidas.
 ---
 
 

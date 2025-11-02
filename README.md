@@ -4,7 +4,7 @@ Projeto desenvolvido pelo **Grupo 2** como parte da iniciativa baseada no **Tema
 
 ---
 
-## 👥 Integrantes do Grupo D2
+## Integrantes:
 - Bruno Nascimento da Costa  
 - Camila Íris Campos de Oliveira  
 - David Willyam Felipe Marques de Oliveira  

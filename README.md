@@ -1,4 +1,4 @@
-# 🚀 Projeto Faz teu Nome 🚀
+# Projeto Faz teu Nome 🚀
 
 ## 📝 Sobre o Projeto
 
@@ -53,13 +53,12 @@ Ao final do percurso, cada estudante do último ano do Ensino Médio deve elabor
 
 ## 🛠️ Escopo Técnico e Entregáveis
 
-O trabalho técnico envolveu o início da **estruturação e modelagem do Banco de Dados** e o desenvolvimento das primeiras telas de **Front-end**.
+O trabalho técnico envolveu o início da **estruturação e modelagem do Banco de Dados**
 
 ### Tecnologias Utilizadas
 
 * **Banco de Dados:** MySQL
 * **Modelagem:** MySQL Workbench
-* **Plataforma:** Web responsiva
 
 ### Estrutura do DB (Modelo EER)
 
@@ -79,13 +78,6 @@ O modelo relacional inclui as seguintes entidades:
 2.  **Guia de Uso Prático:** Orientado para professores, gestores e parceiros.
 3.  **Ementa Curricular Estruturada:** Para o componente Projeto de Vida.
 4.  **Eventos:** Realização de eventos escolares e comunitários (exposições, feiras, rodas de conversa, *hackaton* pedagógico).
-
-### 🚫 Delimitação do Escopo (O que Não Inclui)
-
-O projeto não inclui:
-* Desenvolvimento de **aplicativo mobile**.
-* Suporte técnico contínuo após a implantação.
-* Manutenção da plataforma em longo prazo.
 
 ---
 

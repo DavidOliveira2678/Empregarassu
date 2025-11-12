@@ -1,82 +1,103 @@
-# 🎨 Galeria Jovem 🎨
+# 🚀 Projeto Faz teu Nome 🚀
 
-Projeto desenvolvido pelo **Grupo 2** como parte da iniciativa baseada no **Tema 1: Mentoria, Emprego e Protagonismo Juvenil**.
+## 📝 Sobre o Projeto
 
----
+O projeto **Faz teu Nome** é uma **plataforma digital pedagógica** desenvolvida por uma turma Full Stack do Projeto Start, Rede Cidadã.
 
-## Integrantes:
-- Bruno Nascimento da Costa  
-- Camila Íris Campos de Oliveira  
-- David Willyam Felipe Marques de Oliveira  
-- Isabela Garcia Menezes  
-- Rafaela Cristina de Souza  
-- Stefany Silva de Souza  
+A solução foi redefinida para atuar como um **complemento estratégico** ao componente curricular **Projeto de Vida** para os estudantes do $3^{\circ}$ ano do Ensino Médio no município de **Igarassu**. A plataforma visa transformar o Projeto de Vida em uma experiência **significativa, estruturada e conectada** com os sonhos e desafios reais dos estudantes.
 
----
+### 🎯 Objetivo Principal
 
-## Problema
-A juventude brasileira enfrenta **barreiras estruturais e sociais** para se inserir de forma qualificada no mercado de trabalho. Entre os principais desafios estão:
+O objetivo geral do Projeto de Vida é apoiar os estudantes na construção de seus planos pessoais, acadêmicos e profissionais, estimulando o **autoconhecimento, a autonomia e a capacidade de tomar decisões conscientes**.
 
-- Falta de orientação profissional  
-- Cursos e oportunidades desalinhados com os interesses dos jovens  
-- Dificuldade de acesso a vagas, transporte e infraestrutura  
-- Alta taxa de informalidade e desemprego  
-- Pouca visibilidade de talentos e habilidades reais  
-
-Esses fatores contribuem para escolhas equivocadas, baixa qualificação e exclusão do mercado formal, especialmente entre jovens em situação de vulnerabilidade.
+O projeto **Faz teu Nome** supre a carência de uma **ementa estruturada** na disciplina Projeto de Vida, oferecendo aos educadores uma proposta curricular clara e funcional.
 
 ---
 
-## Solução: Galeria Jovem
+## 👥 Integrantes
 
-A **Galeria Jovem** é muito mais do que uma simples plataforma é um ecossistema digital pensado para **dar visibilidade aos talentos juvenis** e criar conexões reais com oportunidades de crescimento. Nosso objetivo é reduzir as barreiras que afastam os jovens do mercado de trabalho, oferecendo um espaço seguro e dinâmico para **mostrar habilidades, receber orientação e acessar trilhas personalizadas de desenvolvimento**.
+O projeto está sendo desenvolvido pela turma de **Full Stack do Projeto Start**, composta por:
 
-### Como a solução se diferencia?
-- **Personalização Inteligente**: Cada jovem tem um perfil único, e a plataforma utiliza análise de afinidades para sugerir cursos, vagas e mentorias alinhadas aos seus interesses.
-- **Portfólio Digital**: Permite que os jovens exibam suas criações (arte, música, design, tecnologia, jogos, escrita), funcionando como uma vitrine para empresas e mentores.
-- **Conexão com Mentores e Empresas**: Cria pontes reais entre talentos e profissionais experientes, promovendo networking e orientação prática.
-- **Trilhas Formativas**: Sugestões de capacitação contínua para desenvolver habilidades essenciais e aumentar a empregabilidade.
-- **Inclusão e Acessibilidade**: Espaço pensado para jovens neurodivergentes e para quem enfrenta barreiras sociais, garantindo visibilidade e oportunidades.
-
-Essa abordagem transforma a busca por emprego ou qualificação em uma experiência **interativa, personalizada e motivadora**, incentivando o protagonismo juvenil e a construção de carreiras sólidas.
----
-
-
-## Como funciona?
-1. O jovem acessa e cria seu perfil com hobbies, talentos e experiências.  
-2. O sistema analisa os dados e identifica **afinidades e caminhos de desenvolvimento**.  
-3. Sugere **vagas, cursos e mentorias** alinhadas ao perfil.  
-4. Aprende com o uso contínuo, tornando as recomendações cada vez mais precisas.  
-5. Cria uma experiência personalizada que incentiva o crescimento real.  
+* **Bruno Nascimento da Costa**
+* **Camila Íris Campos de Oliveira**
+* **David Willyam Felipe Marques de Oliveira**
+* **Isabela Garcia Menezes**
+* **Rafaela Cristina de Souza**
+* **Stefany Silva de Souza**
 
 ---
 
-## Objetivos
-- **Orientar**: Ajudar jovens a identificar seus talentos e interesses.  
-- **Capacitar**: Facilitar o acesso a cursos e mentorias relevantes.  
-- **Inserir**: Conectar com vagas de emprego e redes profissionais.  
-- **Crescer**: Promover o desenvolvimento contínuo e protagonismo juvenil.  
+## 🛣️ Metodologia e Trilha de Aprendizagem
+
+O **Faz teu Nome** utiliza uma metodologia baseada em **experiências gamificadas**, recursos audiovisuais e atividades interativas. A proposta pedagógica é estruturada em uma **trilha de aprendizagem visual e sequencial**, dividida em três módulos principais:
+
+### 🧩 Módulos Formativos
+
+1.  **Módulo 1: Soft Skills**
+    * Inteligência Emocional
+    * Liderança & Equipe
+2.  **Módulo 2: Hard Skills**
+    * Inglês Profissional
+3.  **Módulo 3: Trilha de Conhecimento**
+    * Projeto de Vida
+    * Aprofundamento (Aprendizagem Contínua)
+
+### 💡 Projeto Autoral e Evento Final
+
+Ao final do percurso, cada estudante do último ano do Ensino Médio deve elaborar e apresentar um **projeto autoral** que sintetize sua trajetória.
+
+* **Formatos Sugeridos:** Plano de carreira, proposta empreendedora, intervenção comunitária ou outro modelo que reflita a identidade do estudante.
+* **Evento Final:** A apresentação é realizada em formato de **hackaton pedagógico**, promovido como um evento escolar e comunitário.
 
 ---
 
-## Público-Alvo
-- Jovens em transição para o mercado de trabalho  
-- Pessoas sem experiência profissional ou indecisas sobre carreira  
-- Jovens neurodivergentes que precisam de um espaço seguro para mostrar seus talentos  
-- Quem busca capacitação, mentoria e oportunidades reais  
+## 🛠️ Escopo Técnico e Entregáveis
+
+O trabalho técnico envolveu o início da **estruturação e modelagem do Banco de Dados** e o desenvolvimento das primeiras telas de **Front-end**.
+
+### Tecnologias Utilizadas
+
+* **Banco de Dados:** MySQL
+* **Modelagem:** MySQL Workbench
+* **Plataforma:** Web responsiva
+
+### Estrutura do DB (Modelo EER)
+
+O modelo relacional inclui as seguintes entidades:
+
+* `usuarios`
+* `mentores`
+* `vagas`
+* `cursos`
+* `recomendacoes`
+
+
+
+### Entregáveis Centrais
+
+1.  **Plataforma Faz teu Nome:** O protótipo funcional validado e a versão integralmente implementada.
+2.  **Guia de Uso Prático:** Orientado para professores, gestores e parceiros.
+3.  **Ementa Curricular Estruturada:** Para o componente Projeto de Vida.
+4.  **Eventos:** Realização de eventos escolares e comunitários (exposições, feiras, rodas de conversa, *hackaton* pedagógico).
+
+### 🚫 Delimitação do Escopo (O que Não Inclui)
+
+O projeto não inclui:
+* Desenvolvimento de **aplicativo mobile**.
+* Suporte técnico contínuo após a implantação.
+* Manutenção da plataforma em longo prazo.
 
 ---
 
-## Recursos futuros
-- **Portfólio digital avançado** para exibir projetos e criações dos jovens  
-- **Sistema de recomendação inteligente** para cursos, vagas e mentorias  
-- **Área para mentores** com ferramentas de acompanhamento e orientação  
-- **Integração com programas locais** de capacitação e empregabilidade  
-- **Funcionalidade para trilhas formativas personalizadas** com base nos interesses do usuário  
+## 🤝 Stakeholders e Impacto
 
----
+O projeto busca fortalecer o ecossistema de aprendizagem e empregabilidade em Igarassu.
 
-##  Transformando talentos em oportunidades
-A **Galeria Jovem** é mais que uma plataforma, é um movimento para **revelar o potencial da juventude** e construir pontes entre sonhos e realizações.
+* **Estudantes:** Principais beneficiários, utilizando a plataforma para autoconhecimento e desenvolvimento de competências.
+* **Equipe Pedagógica:** Professores, coordenadores e gestores que ganham acesso a uma ementa estruturada e funcional para a disciplina Projeto de Vida.
+* **Rede Cidadã:** Participa como parceira estratégica, oferecendo orientação e mentoria.
+* **Empresas Parceiras:** Envolvidas como potenciais contratantes, oferecendo oportunidades reais de inserção profissional.
+
+Os projetos de destaque no *hackaton* pedagógico poderão ser encaminhados a empresas parceiras para oportunidades de formação ou inserção profissional.
 
 ---

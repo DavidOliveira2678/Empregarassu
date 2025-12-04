@@ -7,7 +7,6 @@ export default function Home() {
 
   return (
     <div className="home-container">
-      {/* Header */}
       <div className="home-header">
         <div className="logo">Faz Teu Nome</div>
         <div className="header-buttons">
@@ -16,7 +15,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Main */}
       <div className="home-main">
         <h1>Explore as trilhas disponíveis</h1>
         <p className="home-subtitle">
@@ -24,7 +22,6 @@ export default function Home() {
         </p>
 
         <div className="trilhas-container">
-          {/* Card 1 */}
           <div className="trilha-card">
             <div className="trilha-icon">💡</div>
             <h2>Trilha da Criatividade</h2>
@@ -34,7 +31,6 @@ export default function Home() {
             <span>40% concluído</span>
           </div>
 
-          {/* Card 2 */}
           <div className="trilha-card">
             <div className="trilha-icon">📚</div>
             <h2>Trilha do Conhecimento</h2>
@@ -44,7 +40,6 @@ export default function Home() {
             <span>70% concluído</span>
           </div>
 
-          {/* Card 3 */}
           <div className="trilha-card">
             <div className="trilha-icon">🚀</div>
             <h2>Trilha da Aventura</h2>
@@ -54,8 +49,6 @@ export default function Home() {
             <span>25% concluído</span>
           </div>
         </div>
-
-        {/* Botão clicável para iniciar */}
    <button
   className="start-journey-btn"
   onClick={() => navigate("/dashboard")}

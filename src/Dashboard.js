@@ -5,7 +5,6 @@ export default function Dashboard({ nome }) {
   return (
     <div className="dashboard-container">
 
-      {/* ==================== PARTE SUPERIOR (NAVBAR) ==================== */}
       <nav className="dashboard-topbar">
         <div className="topbar-logo">FAZ TEU NOME</div>
 
@@ -19,7 +18,6 @@ export default function Dashboard({ nome }) {
         <div className="topbar-user">👤</div>
       </nav>
 
-      {/* ==================== HEADER ==================== */}
       <div className="dashboard-header">
         <h2>Bem-vindo à sua jornada, {nome}</h2>
         <p>
@@ -41,14 +39,12 @@ export default function Dashboard({ nome }) {
         </div>
       </div>
 
-      {/* ==================== CONTEÚDO PRINCIPAL ==================== */}
       <div className="main-row">
 
-        {/* ======== TRILHA DE APRENDIZAGEM ======== */}
+
         <div className="learning-path">
           <h3>Trilha de Apredizagem</h3>
 
-          {/* === SOFT SKILLS === */}
           <div className="path-card">
             <span className="icon">🧠</span>
             <div>
@@ -57,8 +53,6 @@ export default function Dashboard({ nome }) {
               <div className="progress-bar green" style={{ width: "100%" }} />
             </div>
           </div>
-
-          {/* === HABILIDADES TÉCNICAS – AGORA EM LARANJA === */}
           <div className="path-card">
             <span className="icon">💻</span>
             <div>
@@ -72,7 +66,6 @@ export default function Dashboard({ nome }) {
             </div>
           </div>
 
-          {/* === TRILHA DE CONHECIMENTO === */}
           <div className="path-card">
             <span className="icon">📘</span>
             <div>
@@ -83,10 +76,9 @@ export default function Dashboard({ nome }) {
           </div>
         </div>
 
-        {/* ======== COLUNA DIREITA (CARDS) ======== */}
+  
         <div className="side-column">
 
-          {/* ======== CONQUISTAS ======== */}
           <div className="side-box">
             <h3>Conquistas</h3>
 
@@ -134,8 +126,6 @@ export default function Dashboard({ nome }) {
               <p>15 de Novembro</p>
             </div>
           </div>
-
-          {/* ======== DICA ======== */}
           <div className="side-box dica-container">
             <div className="dica-titulo">
               <span className="icone-lampada">💡</span>
@@ -150,7 +140,6 @@ export default function Dashboard({ nome }) {
         </div>
       </div>
 
-      {/* ==================== FOOTER ==================== */}
       <footer className="dashboard-footer">
         <div className="footer-columns">
           <div className="footer-col">

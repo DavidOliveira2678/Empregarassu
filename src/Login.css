@@ -13,7 +13,6 @@
   border-radius: 16px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.2);
 
-  /* garante alinhamento interno */
   display: flex;
   flex-direction: column;
   gap: 14px;
@@ -34,9 +33,9 @@
   color: #444;
 }
 
-/* inputs */
+
 .input-group {
-  width: 100%;                /* garante alinhamento */
+  width: 100%;              
 }
 
 .input-group label {
@@ -46,14 +45,13 @@
 }
 
 .input-group input {
-  width: 100%;                /* mesmo tamanho do botão */
+  width: 100%;               
   padding: 12px;
   border-radius: 8px;
   border: 1px solid #ccc;
-  box-sizing: border-box;     /* impede que padding aumente tamanho */
+  box-sizing: border-box;    
 }
 
-/* BOTÃO LARANJA */
 .entrar-btn {
   width: 100%;
   background: #ff7a00;
@@ -63,10 +61,9 @@
   border-radius: 8px;
   font-size: 14px;
   cursor: pointer;
-  box-sizing: border-box;     /* mesmo tamanho dos inputs */
+  box-sizing: border-box;    
 }
 
-/* link cadastro */
 .cadastro-text {
   text-align: center;
   font-size: 14px;

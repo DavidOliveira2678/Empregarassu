@@ -39,7 +39,6 @@ export default function Cadastro() {
         <div className="cadastro-subtitle">Comece sua jornada de desenvolvimento agora</div>
 
         <form>
-          {/* SEUS INPUTS */}
           <div className="input-group">
             <label>Nome completo</label>
             <input type="text" name="nome" value={form.nome} onChange={handleChange} />

@@ -13,25 +13,19 @@ function App() {
     <Router>
       <Routes>
 
-        {/* ---> LOGIN (PRIMEIRA TELA) <--- */}
         <Route path="/" element={<Login />} />
-
-        {/* Home vem DEPOIS do login */}
+        
         <Route path="/home" element={<Home />} />
-
-        {/* Cadastro */}
+       
         <Route path="/cadastro" element={<Cadastro />} />
-
-        {/* Recuperar senha */}
+        
         <Route path="/recuperarsenha" element={<RecuperarSenha />} />
 
-        {/* Dashboard → só acessa se estiver logado */}
         <Route 
           path="/dashboard" 
           element={usuarioLogado ? <Dashboard nome="Faz teu Nome" /> : <Navigate to="/" />} 
         />
 
-        {/* Qualquer rota inexistente → volta para login */}
         <Route path="*" element={<Navigate to="/" />} />
 
       </Routes>

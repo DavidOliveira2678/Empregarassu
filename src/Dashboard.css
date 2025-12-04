@@ -34,7 +34,6 @@
   font-size: 24px;
 }
 
-/* ==================== HEADER ==================== */
 .dashboard-header {
   background: #0f6fa1;
   color: white;
@@ -63,7 +62,6 @@
   font-weight: 500;
 }
 
-/* ==================== LAYOUT PRINCIPAL ==================== */
 .main-row {
   margin-top: 25px;
   display: flex;
@@ -101,7 +99,6 @@
 .yellow { background: #f8c12c; }
 .gray { background: #bfbfbf; }
 
-/* ==================== COLUMA DIREITA ==================== */
 .side-column {
   flex: 1;
   display: flex;
@@ -142,7 +139,6 @@
   color: #333;
 }
 
-/* ==================== DASHBOARD CONTAINER ==================== */
 .dashboard-container {
   display: flex;
   flex-direction: column;
@@ -152,7 +148,6 @@
   padding: 0 20px;
 }
 
-/* ==================== FOOTER ==================== */
 .dashboard-footer {
   width: 100%;
   background: #0f6fa1;
@@ -220,7 +215,6 @@
   opacity: 0.8;
 }
 
-/* ==================== CONQUISTAS ==================== */
 .conquista-item {
   display: flex;
   align-items: center;
@@ -255,7 +249,6 @@
   font-size: 22px;
 }
 
-/* ==================== PRÓXIMOS EVENTOS ==================== */
 .evento-item {
   background-color: #dfe6eb;
   border: 1px solid #c8d0d6;
@@ -275,7 +268,6 @@
   color: #555;
 }
 
-/* ==================== DICA ==================== */
 .dica-container {
   background-color: #E8F1FF;
   border: 1px solid #BFD4F2;
@@ -307,7 +299,6 @@
   line-height: 1.4;
   margin: 0;
 }
-/* Impede seleção de texto no site inteiro */
 * {
   user-select: none;
 }

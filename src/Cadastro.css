@@ -1,0 +1,137 @@
+/* Fundo azul */
+.cadastro-container {
+  min-height: 100vh;
+  width: 100%;
+  background: #0b4870;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 30px;
+}
+
+/* Título + logo acima do card */
+.cadastro-logo {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.cadastro-logo h1 {
+  color: #fff;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+/* Card central (ajustado para ficar igual ao da foto) */
+.cadastro-card {
+  background: #fff;
+  width: 340px;            /* 🔥 menor igual ao da foto */
+  padding: 22px;           /* 🔥 menos padding */
+  border-radius: 20px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+  text-align: center;
+}
+
+/* Título */
+.cadastro-title {
+  font-size: 22px;
+  color: #0b4870;
+  margin-bottom: 4px;
+  font-weight: bold;
+}
+
+/* Subtítulo */
+.cadastro-subtitle {
+  font-size: 12px;
+  color: #444;
+  margin-bottom: 18px;
+}
+
+/* Inputs */
+.input-group {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;     /* 🔥 menos espaço */
+}
+
+.input-group label {
+  font-weight: 600;
+  color: #333;
+  font-size: 13px;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 7px 10px;       /* 🔥 altura menor igual ao modelo */
+  border-radius: 8px;
+  border: 1px solid #b6b6b6;
+  margin-top: 4px;
+  font-size: 13px;
+}
+
+/* Select igual ao do print */
+.select-wrapper {
+  position: relative;
+  width: 100%;
+  margin-top: 4px;
+}
+
+.select-wrapper select {
+  width: 100%;
+  padding: 7px 10px;        /* 🔥 ajustado */
+  padding-right: 40px;
+  border: 1px solid #b6b6b6;
+  border-radius: 8px;
+  appearance: none;
+  background: #fff;
+  font-size: 13px;
+}
+
+.select-wrapper::after {
+  content: "▾";
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px;
+  color: #555;
+}
+
+/* Botão laranja igual ao print */
+.btn-criar-conta {
+  width: 100%;
+  background: #ff7a00;
+  color: #fff;
+  padding: 11px;             /* 🔥 menor */
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.btn-criar-conta:hover {
+  opacity: 0.9;
+}
+
+/* "Já tem conta?" */
+.login-link {
+  margin-top: 12px;
+  font-size: 13px;
+  color: #000;
+}
+
+.login-link span {
+  color: #ff7a00;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Rodapé igual ao print */
+.cadastro-footer {
+  margin-top: 20px;
+  color: #fff;
+  font-size: 13px;
+  text-align: center;
+}
